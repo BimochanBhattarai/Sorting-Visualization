@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+}
+
+h1{
+    background-color: white;
+    color: aqua;
+}
+
+.Arr-Bar{
+    font-size: 10px;
+    height: 10px;
+    background-color: red;
+    width: 15px;
+    margin: 0 5px;
+    /* height: 100px; */
+}
+
+.container
+{
+    display: flex;
+    /* background-color:aqua; */
+    
+    /* height: 100px; */
+    /* flex-direction:; */
+}
+
+.Btn
+{
+    cursor: pointer;
+    margin: 25px;
+    height: 30px;
+    width: 150px;
+    border-radius: 9px;
+    font-size: 16px;
+    color: white;
+    border-color: white;
+
+}
